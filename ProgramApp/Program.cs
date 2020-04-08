@@ -7,9 +7,9 @@ namespace ProgramApp
     {
         static void Main(string[] args)
         {
-            int[] a = {1,2,3,4,5,6,7};
+            int[] a = {1,2,3,4,5,6};
             
-            Console.WriteLine(ArrayHelper.Shift(ref a));
+            Console.WriteLine(ArrayHelper.UnShift(ref a,7));
             foreach (var item in a)
             {
                 System.Console.Write(item+" ");
