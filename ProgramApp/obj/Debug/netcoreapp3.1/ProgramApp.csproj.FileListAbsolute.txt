@@ -1,0 +1,16 @@
+C:\project\HW_07_04_task1\ProgramApp\bin\Debug\netcoreapp3.1\ProgramApp.exe
+C:\project\HW_07_04_task1\ProgramApp\bin\Debug\netcoreapp3.1\ProgramApp.deps.json
+C:\project\HW_07_04_task1\ProgramApp\bin\Debug\netcoreapp3.1\ProgramApp.runtimeconfig.json
+C:\project\HW_07_04_task1\ProgramApp\bin\Debug\netcoreapp3.1\ProgramApp.runtimeconfig.dev.json
+C:\project\HW_07_04_task1\ProgramApp\bin\Debug\netcoreapp3.1\ProgramApp.dll
+C:\project\HW_07_04_task1\ProgramApp\bin\Debug\netcoreapp3.1\ProgramApp.pdb
+C:\project\HW_07_04_task1\ProgramApp\obj\Debug\netcoreapp3.1\ProgramApp.csprojAssemblyReference.cache
+C:\project\HW_07_04_task1\ProgramApp\obj\Debug\netcoreapp3.1\ProgramApp.csproj.CoreCompileInputs.cache
+C:\project\HW_07_04_task1\ProgramApp\obj\Debug\netcoreapp3.1\ProgramApp.AssemblyInfoInputs.cache
+C:\project\HW_07_04_task1\ProgramApp\obj\Debug\netcoreapp3.1\ProgramApp.AssemblyInfo.cs
+C:\project\HW_07_04_task1\ProgramApp\obj\Debug\netcoreapp3.1\ProgramApp.dll
+C:\project\HW_07_04_task1\ProgramApp\obj\Debug\netcoreapp3.1\ProgramApp.pdb
+C:\project\HW_07_04_task1\ProgramApp\obj\Debug\netcoreapp3.1\ProgramApp.genruntimeconfig.cache
+C:\project\HW_07_04_task1\ProgramApp\bin\Debug\netcoreapp3.1\ArrayHelper.dll
+C:\project\HW_07_04_task1\ProgramApp\bin\Debug\netcoreapp3.1\ArrayHelper.pdb
+C:\project\HW_07_04_task1\ProgramApp\obj\Debug\netcoreapp3.1\ProgramApp.csproj.CopyComplete

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProgramApp/1.0.0": {
+        "dependencies": {
+          "ArrayHelper": "1.0.0"
+        },
+        "runtime": {
+          "ProgramApp.dll": {}
+        }
+      },
+      "ArrayHelper/1.0.0": {
+        "runtime": {
+          "ArrayHelper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgramApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArrayHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

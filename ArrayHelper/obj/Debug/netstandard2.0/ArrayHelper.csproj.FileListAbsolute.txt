@@ -1,0 +1,9 @@
+C:\project\HW_07_04_task1\ArrayHelper\bin\Debug\netstandard2.0\ArrayHelper.deps.json
+C:\project\HW_07_04_task1\ArrayHelper\bin\Debug\netstandard2.0\ArrayHelper.dll
+C:\project\HW_07_04_task1\ArrayHelper\bin\Debug\netstandard2.0\ArrayHelper.pdb
+C:\project\HW_07_04_task1\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.csprojAssemblyReference.cache
+C:\project\HW_07_04_task1\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.csproj.CoreCompileInputs.cache
+C:\project\HW_07_04_task1\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.AssemblyInfoInputs.cache
+C:\project\HW_07_04_task1\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.AssemblyInfo.cs
+C:\project\HW_07_04_task1\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.dll
+C:\project\HW_07_04_task1\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.pdb

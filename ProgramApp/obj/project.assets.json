@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ArrayHelper/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ArrayHelper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArrayHelper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayHelper/1.0.0": {
+      "type": "project",
+      "path": "../ArrayHelper/ArrayHelper.csproj",
+      "msbuildProject": "../ArrayHelper/ArrayHelper.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ArrayHelper >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Sultan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\project\\HW_07_04_task1\\ProgramApp\\ProgramApp.csproj",
+      "projectName": "ProgramApp",
+      "projectPath": "C:\\project\\HW_07_04_task1\\ProgramApp\\ProgramApp.csproj",
+      "packagesPath": "C:\\Users\\Sultan\\.nuget\\packages\\",
+      "outputPath": "C:\\project\\HW_07_04_task1\\ProgramApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Sultan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\project\\HW_07_04_task1\\ArrayHelper\\ArrayHelper.csproj": {
+              "projectPath": "C:\\project\\HW_07_04_task1\\ArrayHelper\\ArrayHelper.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
